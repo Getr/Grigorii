@@ -15,8 +15,8 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Testing Documentation
-
-- [Checklists and Test-Cases](https://github.com/Grigorii/test-cases)
+- [Checklists](https://github.com/Grigorii/checklists)
+- [Test-Cases](https://github.com/Grigorii/test-cases)
 - [Bug-Reports](https://github.com/Grigorii/bug-reports)
 - [SQL Queries](https://github.com/Grigorii/SQL)
 - [Postman Collections](https://github.com/Grigorii/postman)
