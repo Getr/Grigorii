@@ -16,7 +16,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/Getr/checklist)
+- [Checklists](https://github.com/Grigorii/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Grigorii/test-cases)
 - [Bug-Reports](https://github.com/Grigorii/bug-reports)
 - [SQL Queries](https://github.com/Grigorii/SQL)
