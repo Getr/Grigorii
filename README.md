@@ -1,4 +1,4 @@
-[![Header](https://github.com/Getr/Grigorii.git)
+[![Header](https://github.com/Getr)
  
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -15,12 +15,11 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Testing Documentation
-
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/Grigorii/checklists)
+- [Test-Cases](https://github.com/Grigorii/test-cases)
+- [Bug-Reports](https://github.com/Grigorii/bug-reports)
+- [SQL Queries](https://github.com/Grigorii/SQL)
+- [Postman Collections](https://github.com/Grigorii/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/)
